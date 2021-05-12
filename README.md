@@ -8,7 +8,7 @@
 * [Setup](#setup)
 
 ## General info
-It's an E-commerce website (Frontend:-Bootstrap, Backend:- Django)
+weather app using ReactjS and open weather API
 ### Home page
 <img src="/R-image/home.jpeg" height = 600px width = 300px>
 
